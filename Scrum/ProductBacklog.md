@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1c6uDz3iegMr2Ohw0PkLcfIRgcy8bwKRw/edit?us
 ![image](https://user-images.githubusercontent.com/44178039/129716316-ba10850f-730e-4fce-9fe1-c3669df0de5e.png)
 
 ### Sprint Backlog 
-is a set of user stories we select from product backlog to work on for the current sprint.  
+* is a set of user stories we select from product backlog to work on for the current sprint.  
 ![image](https://user-images.githubusercontent.com/44178039/129716485-4b04fcb9-6286-42a1-b27c-d2831acf6f43.png)
 
 
