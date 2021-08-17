@@ -13,6 +13,6 @@ what meaning by it's done
 
 
 ## Resources 
-https://www.scrum.org/
+https://www.scrum.org/ 
 https://www.scrum.org/resources/blog/done-understanding-definition-done
 https://www.scrum.org/resources/blog/walking-through-definition-ready
