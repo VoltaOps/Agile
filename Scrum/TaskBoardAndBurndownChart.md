@@ -5,4 +5,5 @@ Task Board
 using Jira Software 
 
  Burndown chart
+ Shows how  much work is yet to be completed
 https://www.atlassian.com/agile/tutorials/burndown-charts
