@@ -14,14 +14,11 @@ https://docs.google.com/spreadsheets/d/1QUfLIA2DLhSO23x6iZIVUH3x1-wbr9DC8LthBVa6
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+We didn't conduct the case stories for case One as we are already using Jira software
+for conducting the tasks and here is a snapshot for that 👇
 
 ![image](https://i.imgur.com/H2zCwd1.png)
 
-### Sprint Backlog 
-* is a set of user stories we select from product backlog to work on for the current sprint.  
-![image](https://user-images.githubusercontent.com/44178039/129716485-4b04fcb9-6286-42a1-b27c-d2831acf6f43.png)
-
-Answar for that we can make a video or just excal sheet with the new stories selected 
 
 
 
