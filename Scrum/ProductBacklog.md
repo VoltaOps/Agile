@@ -19,6 +19,11 @@ for conducting the tasks and here is a snapshot for that 👇
 
 ![image](https://i.imgur.com/H2zCwd1.png)
 
+### Jira Software
+Jira is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management.
+
+You Can checkit from this link 👉 https://www.atlassian.com/software/jira
+
 
 
 
