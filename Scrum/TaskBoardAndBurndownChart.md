@@ -10,4 +10,4 @@
   ## Complete List of tasks & Any tasks then are outside of the Sprint
   ![TASKS_2](https://user-images.githubusercontent.com/89010606/130329890-58572d5b-76f5-450a-9186-b52a89194f2e.png)
   
-  ### All the gathered information below is based on Jira Software
+  ### All the gathered information above is based on Jira Software
