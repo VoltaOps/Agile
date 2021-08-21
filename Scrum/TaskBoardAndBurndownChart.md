@@ -1,4 +1,7 @@
 
+  ## Task Board
+  ![TaskBoard](https://user-images.githubusercontent.com/89010606/130333046-2d4b60e4-a6d9-42bc-bfe4-13f5adf5c51f.png)
+  
   ## Burndown Chart
   ![Burndown_Chart](https://user-images.githubusercontent.com/89010606/130329875-f2e5329e-f9f2-4091-af44-c1bbe0d764e2.png)
   
